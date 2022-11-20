@@ -12,15 +12,25 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me
 
-Originating from Vancouver, British Columbia, I am a Computer Science and Mathematics double major at the University of Oregon. I am expected to graduate in June 2023. 
+* * *
 
-## Header 2
+Originating from Vancouver, British Columbia, I am a Computer Science and Mathematics double major at the University of Oregon expected to graduate in June 2023. My interests include software development and engineering, cybersecurity, and education. 
+
+# <h1 style="text-align: center;">Technical Skills</h1>
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+# Previous Projects
+
+
+# Where to find me
+
+
+# Contact
+
+
 
 
 
@@ -93,10 +103,4 @@ Originating from Vancouver, British Columbia, I am a Computer Science and Mathem
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
