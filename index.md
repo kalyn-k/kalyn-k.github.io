@@ -16,20 +16,35 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Originating from Vancouver, British Columbia, I am a Computer Science and Mathematics double major at the University of Oregon expected to graduate in June 2023. My interests include software development and engineering, cybersecurity, and education. 
 
-# <h1 style="text-align: center;">Technical Skills</h1>
+# Technical Skills 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* * *
+
+Below is a list of some of my technical skills and programming laguages, which I am always looking forward to expand.
+
+- Python
+- C
+- C#
+- Git
 
 # Previous Projects
+
+* * *
+
 
 
 # Where to find me
 
+* * *
+
+* [Linkedin](https://www.linkedin.com/in/kalynkoy/)
+* [Github](https://github.com/kalyn-k)
 
 # Contact
 
+* * *
+
+The best way to get into contact with me is through email: [kalynk@uoregon.edu](kalynk@uoregon.edu)
 
 
 
