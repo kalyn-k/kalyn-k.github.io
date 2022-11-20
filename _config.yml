@@ -1,4 +1,5 @@
 title: Kalyn Koyanagi
+author: Kalyn E. Koyanagi
 description: I am a Computer Science and Mathematics student at the University of Oregon. 
 show_downloads: true
 google_analytics:
@@ -6,3 +7,8 @@ theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+social-network-links:
+  email: "kalynk@uoregon.edu"
+  github: kalyn-k
+  linkedin: kalynkoy
