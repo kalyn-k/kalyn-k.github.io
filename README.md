@@ -1,1 +1,1 @@
-Here is the begining of my simple website!
+Here is the beginning of my simple website!
